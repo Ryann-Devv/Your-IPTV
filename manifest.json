@@ -9,5 +9,5 @@
     "resources":["movie","series","tv"],
     "catalogs":[],
     "idPrefixes":["yiptv:"],
-    "behaviorHints":{configurable : true, configurationRequired: true },
+    "behaviorHints":{"configurable":true, "configurationRequired":true },
 }
