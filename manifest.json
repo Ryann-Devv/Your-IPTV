@@ -12,10 +12,7 @@
       "id":"YourIPTV",
       "name":"Your IPTV",
       "type":"tv"
-    }
+         }
     ],
 
-    {
-    "idPrefixes":["yiptv:"],
-    "behaviorHints":{"configurable":true, "configurationRequired":true },
-}}
+}
