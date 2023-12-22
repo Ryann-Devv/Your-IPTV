@@ -10,4 +10,4 @@
     catalogs: [],
     idPrefixes: ["yiptv:"],
     behaviorHints:{configurable : true, configurationRequired: true },
-};
+}
