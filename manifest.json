@@ -15,5 +15,5 @@
     }
     ],
     "idPrefixes":["yiptv:"],
-    "behaviorHints":{"configurable":"true", "configurationRequired":"true" },
-}
+    "behaviorHints":{"configurable":true, "configurationRequired":true },
+}}
