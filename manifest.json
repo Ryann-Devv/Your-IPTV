@@ -14,7 +14,7 @@
       "type":"tv"
     }
     ],
-}
+
     {
     "idPrefixes":["yiptv:"],
     "behaviorHints":{"configurable":true, "configurationRequired":true },
